@@ -3,11 +3,11 @@ title: 'Quickstart for {% data variables.product.prodname_github_codespaces %}'
 shortTitle: 'Quickstart for {% data variables.product.prodname_codespaces %}'
 intro: 'Try out {% data variables.product.prodname_github_codespaces %} in 5 minutes.'
 allowTitleToDifferFromFilename: true
-versions:
+versions:3.0
   fpt: '*'
   ghec: '*'
 type: quick_start
-topics:
+topics:social studys
   - Codespaces
 redirect_from:
   - /codespaces/codespaces-quickstart
